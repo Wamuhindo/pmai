@@ -1,0 +1,2970 @@
+{
+  "Configurations": {
+    "config_1": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 4.69,
+      "id": "0_0",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_0",
+          "memory": 0,
+          "workload": 0,
+          "latency": 48.47670823455203,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_0",
+          "memory": 0,
+          "workload": 0,
+          "latency": 155.02596018402627,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_0",
+          "memory": 0,
+          "workload": 0,
+          "latency": 76.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_1"
+    },
+    "config_2": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 6.25,
+      "id": "0_1",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_1",
+          "memory": 0,
+          "workload": 0,
+          "latency": 48.42044813235123,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_1",
+          "memory": 0,
+          "workload": 357,
+          "latency": 147.35096222978407,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_1",
+          "memory": 0,
+          "workload": 0,
+          "latency": 21.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_2"
+    },
+    "config_3": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 3.13,
+      "id": "0_3",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 59.04578344398398,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_3",
+          "memory": 0,
+          "workload": 650,
+          "latency": 139.2786901639821,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 19.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_4"
+    },
+    "config_4": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 3.13,
+      "id": "0_4",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 51.61863356738628,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_4",
+          "memory": 0,
+          "workload": 678,
+          "latency": 151.68556774007158,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 20.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_5"
+    },
+    "config_5": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 3.13,
+      "id": "0_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 50.11403098588411,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_5",
+          "memory": 0,
+          "workload": 921,
+          "latency": 145.63819454304814,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_6"
+    },
+    "config_6": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 3.13,
+      "id": "0_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 46.33561343012317,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_6",
+          "memory": 0,
+          "workload": 975,
+          "latency": 168.42977009292156,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_7"
+    },
+    "config_7": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 3.13,
+      "id": "0_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 65.19161116271935,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_7",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 166.97169492485727,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_8"
+    },
+    "config_8": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 1.56,
+      "id": "0_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 55.28178054286557,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_8",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 150.38987463801703,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_9"
+    },
+    "config_9": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 1.56,
+      "id": "0_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 45.9142293019265,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_9",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 135.0563238859202,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_10"
+    },
+    "config_10": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 1.56,
+      "id": "0_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 61.265936231471514,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_10",
+          "memory": 0,
+          "workload": 1613,
+          "latency": 182.17907093727746,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_11"
+    },
+    "config_11": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 1.56,
+      "id": "0_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 57.25982694359599,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_11",
+          "memory": 0,
+          "workload": 1667,
+          "latency": 146.06279797702516,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_12"
+    },
+    "config_12": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 1.56,
+      "id": "0_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 61.372525873775416,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_12",
+          "memory": 0,
+          "workload": 1680,
+          "latency": 148.33866607237434,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_13"
+    },
+    "config_13": {
+      "data_to_phone": 4.69,
+      "data_to_cloud": 0.0,
+      "id": "0_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_0_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 53.753630356944576,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_0_13",
+          "memory": 0,
+          "workload": 4980,
+          "latency": 207.63096658903788,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_0_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_14"
+    },
+    "config_14": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 6.25,
+      "id": "1_1",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_1",
+          "memory": 0,
+          "workload": 357,
+          "latency": 97.61134353162507,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_1",
+          "memory": 0,
+          "workload": 0,
+          "latency": 196.30219886890944,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_1",
+          "memory": 0,
+          "workload": 0,
+          "latency": 21.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_15"
+    },
+    "config_15": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 6.25,
+      "id": "1_2",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_2",
+          "memory": 0,
+          "workload": 357,
+          "latency": 117.33345916274311,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_2",
+          "memory": 0,
+          "workload": 55,
+          "latency": 174.37685389522065,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_2",
+          "memory": 0,
+          "workload": 0,
+          "latency": 21.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_16"
+    },
+    "config_16": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "1_3",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_3",
+          "memory": 0,
+          "workload": 357,
+          "latency": 112.7498501429634,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_3",
+          "memory": 0,
+          "workload": 293,
+          "latency": 153.50515777852695,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 19.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_17"
+    },
+    "config_17": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "1_4",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_4",
+          "memory": 0,
+          "workload": 357,
+          "latency": 114.94829658060587,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_4",
+          "memory": 0,
+          "workload": 321,
+          "latency": 195.06121157049017,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 20.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_18"
+    },
+    "config_18": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "1_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_5",
+          "memory": 0,
+          "workload": 357,
+          "latency": 123.91623171336894,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_5",
+          "memory": 0,
+          "workload": 564,
+          "latency": 168.18189048884093,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_19"
+    },
+    "config_19": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "1_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_6",
+          "memory": 0,
+          "workload": 357,
+          "latency": 126.48949791977014,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_6",
+          "memory": 0,
+          "workload": 618,
+          "latency": 205.3186677643024,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_20"
+    },
+    "config_20": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "1_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_7",
+          "memory": 0,
+          "workload": 357,
+          "latency": 97.13202460057882,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_7",
+          "memory": 0,
+          "workload": 646,
+          "latency": 159.74403920597598,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_21"
+    },
+    "config_21": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "1_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_8",
+          "memory": 0,
+          "workload": 357,
+          "latency": 89.53369923709555,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_8",
+          "memory": 0,
+          "workload": 883,
+          "latency": 181.4262842759326,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_22"
+    },
+    "config_22": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "1_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_9",
+          "memory": 0,
+          "workload": 357,
+          "latency": 124.02949518289978,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_9",
+          "memory": 0,
+          "workload": 897,
+          "latency": 171.2553335536531,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_23"
+    },
+    "config_23": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "1_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_10",
+          "memory": 0,
+          "workload": 357,
+          "latency": 111.51791160887379,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_10",
+          "memory": 0,
+          "workload": 1256,
+          "latency": 200.6126152084183,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_24"
+    },
+    "config_24": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "1_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_11",
+          "memory": 0,
+          "workload": 357,
+          "latency": 92.80137911282799,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_11",
+          "memory": 0,
+          "workload": 1309,
+          "latency": 208.53968374243726,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_25"
+    },
+    "config_25": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "1_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_12",
+          "memory": 0,
+          "workload": 357,
+          "latency": 106.24571413061611,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_12",
+          "memory": 0,
+          "workload": 1323,
+          "latency": 150.51249133980224,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_26"
+    },
+    "config_26": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 0.0,
+      "id": "1_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_1_13",
+          "memory": 0,
+          "workload": 357,
+          "latency": 120.02961188231284,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_1_13",
+          "memory": 0,
+          "workload": 4623,
+          "latency": 256.9756746497644,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_1_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_27"
+    },
+    "config_27": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 6.25,
+      "id": "2_2",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_2",
+          "memory": 0,
+          "workload": 412,
+          "latency": 91.76961982233058,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_2",
+          "memory": 0,
+          "workload": 0,
+          "latency": 173.69409225362165,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_2",
+          "memory": 0,
+          "workload": 0,
+          "latency": 21.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_28"
+    },
+    "config_28": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "2_3",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_3",
+          "memory": 0,
+          "workload": 412,
+          "latency": 90.2684257227373,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_3",
+          "memory": 0,
+          "workload": 237,
+          "latency": 145.56958240128517,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 19.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_29"
+    },
+    "config_29": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "2_4",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_4",
+          "memory": 0,
+          "workload": 412,
+          "latency": 82.95271273117314,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_4",
+          "memory": 0,
+          "workload": 265,
+          "latency": 183.407670024752,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 20.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_30"
+    },
+    "config_30": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "2_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_5",
+          "memory": 0,
+          "workload": 412,
+          "latency": 77.76530583500931,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_5",
+          "memory": 0,
+          "workload": 508,
+          "latency": 155.04233133518505,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_31"
+    },
+    "config_31": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "2_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_6",
+          "memory": 0,
+          "workload": 412,
+          "latency": 87.28351823175544,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_6",
+          "memory": 0,
+          "workload": 562,
+          "latency": 205.00244220344865,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_32"
+    },
+    "config_32": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 3.13,
+      "id": "2_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_7",
+          "memory": 0,
+          "workload": 412,
+          "latency": 111.12006289230453,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_7",
+          "memory": 0,
+          "workload": 590,
+          "latency": 143.14864623452732,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_33"
+    },
+    "config_33": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "2_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_8",
+          "memory": 0,
+          "workload": 412,
+          "latency": 105.63636511613808,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_8",
+          "memory": 0,
+          "workload": 827,
+          "latency": 134.3460196600957,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_34"
+    },
+    "config_34": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "2_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_9",
+          "memory": 0,
+          "workload": 412,
+          "latency": 103.4912282477511,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_9",
+          "memory": 0,
+          "workload": 841,
+          "latency": 178.17107868719825,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_35"
+    },
+    "config_35": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "2_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_10",
+          "memory": 0,
+          "workload": 412,
+          "latency": 93.79171278527026,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_10",
+          "memory": 0,
+          "workload": 1200,
+          "latency": 173.96329152633135,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_36"
+    },
+    "config_36": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "2_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_11",
+          "memory": 0,
+          "workload": 412,
+          "latency": 102.42097012587615,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_11",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 203.2573045132145,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_37"
+    },
+    "config_37": {
+      "data_to_phone": 6.25,
+      "data_to_cloud": 1.56,
+      "id": "2_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_2_12",
+          "memory": 0,
+          "workload": 412,
+          "latency": 91.83000522908466,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_2_12",
+          "memory": 0,
+          "workload": 1268,
+          "latency": 184.2744221179225,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_2_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_38"
+    },
+    "config_38": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "3_3",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_3",
+          "memory": 0,
+          "workload": 650,
+          "latency": 62.778254259069655,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 101.3937987750345,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_3",
+          "memory": 0,
+          "workload": 0,
+          "latency": 19.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_40"
+    },
+    "config_39": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "3_4",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_4",
+          "memory": 0,
+          "workload": 650,
+          "latency": 59.96619231275001,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_4",
+          "memory": 0,
+          "workload": 27,
+          "latency": 91.54908433309106,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 20.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_41"
+    },
+    "config_40": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "3_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_5",
+          "memory": 0,
+          "workload": 650,
+          "latency": 61.63681811736995,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_5",
+          "memory": 0,
+          "workload": 271,
+          "latency": 103.87210989611384,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_42"
+    },
+    "config_41": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "3_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_6",
+          "memory": 0,
+          "workload": 650,
+          "latency": 75.91690475533376,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_6",
+          "memory": 0,
+          "workload": 325,
+          "latency": 127.26315613327549,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_43"
+    },
+    "config_42": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "3_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_7",
+          "memory": 0,
+          "workload": 650,
+          "latency": 61.70633447048172,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_7",
+          "memory": 0,
+          "workload": 353,
+          "latency": 96.8264001579077,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_44"
+    },
+    "config_43": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "3_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_8",
+          "memory": 0,
+          "workload": 650,
+          "latency": 70.29773842994976,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_8",
+          "memory": 0,
+          "workload": 589,
+          "latency": 92.71622716353828,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_45"
+    },
+    "config_44": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "3_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_9",
+          "memory": 0,
+          "workload": 650,
+          "latency": 67.66683465638911,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_9",
+          "memory": 0,
+          "workload": 603,
+          "latency": 87.60554731792621,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_46"
+    },
+    "config_45": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "3_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_10",
+          "memory": 0,
+          "workload": 650,
+          "latency": 68.89878956663514,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_10",
+          "memory": 0,
+          "workload": 963,
+          "latency": 85.28220360832867,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_47"
+    },
+    "config_46": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "3_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_11",
+          "memory": 0,
+          "workload": 650,
+          "latency": 61.10219663564308,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_11",
+          "memory": 0,
+          "workload": 1016,
+          "latency": 86.48025862218937,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_48"
+    },
+    "config_47": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "3_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_12",
+          "memory": 0,
+          "workload": 650,
+          "latency": 55.62536650605067,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_12",
+          "memory": 0,
+          "workload": 1030,
+          "latency": 83.41746049281697,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_49"
+    },
+    "config_48": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 0.0,
+      "id": "3_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_3_13",
+          "memory": 0,
+          "workload": 650,
+          "latency": 68.45899697855305,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_3_13",
+          "memory": 0,
+          "workload": 4330,
+          "latency": 177.95191616119365,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_3_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_50"
+    },
+    "config_49": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "4_4",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_4",
+          "memory": 0,
+          "workload": 678,
+          "latency": 80.88074658870106,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 89.65884586586458,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_4",
+          "memory": 0,
+          "workload": 0,
+          "latency": 20.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_51"
+    },
+    "config_50": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "4_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_5",
+          "memory": 0,
+          "workload": 678,
+          "latency": 62.363113633975175,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_5",
+          "memory": 0,
+          "workload": 243,
+          "latency": 92.45090708185204,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_52"
+    },
+    "config_51": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "4_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_6",
+          "memory": 0,
+          "workload": 678,
+          "latency": 80.20795845048963,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_6",
+          "memory": 0,
+          "workload": 297,
+          "latency": 112.19228148502393,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_53"
+    },
+    "config_52": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "4_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_7",
+          "memory": 0,
+          "workload": 678,
+          "latency": 79.34200323781751,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_7",
+          "memory": 0,
+          "workload": 325,
+          "latency": 86.09136785152313,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_54"
+    },
+    "config_53": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "4_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_9",
+          "memory": 0,
+          "workload": 678,
+          "latency": 67.79851849170821,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_9",
+          "memory": 0,
+          "workload": 575,
+          "latency": 110.45020542091692,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_56"
+    },
+    "config_54": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "4_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_10",
+          "memory": 0,
+          "workload": 678,
+          "latency": 72.20914466099589,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_10",
+          "memory": 0,
+          "workload": 935,
+          "latency": 104.64155969830742,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_57"
+    },
+    "config_55": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "4_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_11",
+          "memory": 0,
+          "workload": 678,
+          "latency": 64.01838995584399,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_11",
+          "memory": 0,
+          "workload": 988,
+          "latency": 85.67616006933926,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_58"
+    },
+    "config_56": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "4_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_12",
+          "memory": 0,
+          "workload": 678,
+          "latency": 75.32116971802296,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_12",
+          "memory": 0,
+          "workload": 1002,
+          "latency": 95.8215048498892,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_59"
+    },
+    "config_57": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 0.0,
+      "id": "4_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_4_13",
+          "memory": 0,
+          "workload": 678,
+          "latency": 57.21013854002459,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_4_13",
+          "memory": 0,
+          "workload": 4302,
+          "latency": 154.24842090979058,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_4_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_60"
+    },
+    "config_58": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "5_5",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_5",
+          "memory": 0,
+          "workload": 921,
+          "latency": 77.76703873493688,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 83.45387006460383,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_5",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_61"
+    },
+    "config_59": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "5_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_6",
+          "memory": 0,
+          "workload": 921,
+          "latency": 90.3481231184794,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_6",
+          "memory": 0,
+          "workload": 54,
+          "latency": 114.56869972376818,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_62"
+    },
+    "config_60": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "5_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_7",
+          "memory": 0,
+          "workload": 921,
+          "latency": 74.92130537334056,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_7",
+          "memory": 0,
+          "workload": 81,
+          "latency": 90.2325702960645,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_63"
+    },
+    "config_61": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "5_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_8",
+          "memory": 0,
+          "workload": 921,
+          "latency": 76.98959125902803,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_8",
+          "memory": 0,
+          "workload": 318,
+          "latency": 79.24759647026399,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_64"
+    },
+    "config_62": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "5_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_9",
+          "memory": 0,
+          "workload": 921,
+          "latency": 70.2015407350105,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_9",
+          "memory": 0,
+          "workload": 332,
+          "latency": 104.79753360641871,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_65"
+    },
+    "config_63": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "5_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_10",
+          "memory": 0,
+          "workload": 921,
+          "latency": 67.51133709267451,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_10",
+          "memory": 0,
+          "workload": 692,
+          "latency": 94.96355709374275,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_66"
+    },
+    "config_64": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "5_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_11",
+          "memory": 0,
+          "workload": 921,
+          "latency": 71.75799350616889,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_11",
+          "memory": 0,
+          "workload": 745,
+          "latency": 93.4404945816644,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_67"
+    },
+    "config_65": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "5_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_12",
+          "memory": 0,
+          "workload": 921,
+          "latency": 69.60315626383859,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_12",
+          "memory": 0,
+          "workload": 759,
+          "latency": 105.42433358523003,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_68"
+    },
+    "config_66": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 0.0,
+      "id": "5_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_5_13",
+          "memory": 0,
+          "workload": 921,
+          "latency": 69.15911642800026,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_5_13",
+          "memory": 0,
+          "workload": 4058,
+          "latency": 153.20516097070146,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_5_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_69"
+    },
+    "config_67": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "6_6",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_6",
+          "memory": 0,
+          "workload": 975,
+          "latency": 86.9844827892144,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 85.27084018666221,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_6",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_70"
+    },
+    "config_68": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "6_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_7",
+          "memory": 0,
+          "workload": 975,
+          "latency": 75.76838480596993,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_7",
+          "memory": 0,
+          "workload": 27,
+          "latency": 111.1599216959075,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_71"
+    },
+    "config_69": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "6_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_8",
+          "memory": 0,
+          "workload": 975,
+          "latency": 82.31749233820855,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_8",
+          "memory": 0,
+          "workload": 264,
+          "latency": 110.45209700958381,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_72"
+    },
+    "config_70": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "6_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_9",
+          "memory": 0,
+          "workload": 975,
+          "latency": 90.63746623263283,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_9",
+          "memory": 0,
+          "workload": 278,
+          "latency": 93.7268703042382,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_73"
+    },
+    "config_71": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "6_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_10",
+          "memory": 0,
+          "workload": 975,
+          "latency": 79.18854536876299,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_10",
+          "memory": 0,
+          "workload": 638,
+          "latency": 104.12729784396322,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_74"
+    },
+    "config_72": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "6_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_11",
+          "memory": 0,
+          "workload": 975,
+          "latency": 79.13583182418746,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_11",
+          "memory": 0,
+          "workload": 691,
+          "latency": 116.79682870578338,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_75"
+    },
+    "config_73": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "6_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_12",
+          "memory": 0,
+          "workload": 975,
+          "latency": 64.58663206594176,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_12",
+          "memory": 0,
+          "workload": 705,
+          "latency": 88.87012449157757,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_76"
+    },
+    "config_74": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 0.0,
+      "id": "6_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_6_13",
+          "memory": 0,
+          "workload": 975,
+          "latency": 81.45267729832825,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_6_13",
+          "memory": 0,
+          "workload": 4004,
+          "latency": 174.7748537587364,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_6_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_77"
+    },
+    "config_75": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 3.13,
+      "id": "7_7",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_7",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 63.82635385504876,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 85.36107607986796,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_7",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_78"
+    },
+    "config_76": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "7_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_8",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 64.57426837571785,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_8",
+          "memory": 0,
+          "workload": 236,
+          "latency": 76.5839790476388,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_79"
+    },
+    "config_77": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "7_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_9",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 67.86307280302583,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_9",
+          "memory": 0,
+          "workload": 250,
+          "latency": 90.32538804188752,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_80"
+    },
+    "config_78": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "7_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_10",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 62.98309533615848,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_10",
+          "memory": 0,
+          "workload": 610,
+          "latency": 101.2655159257559,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_81"
+    },
+    "config_79": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "7_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_11",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 89.70052197159916,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_11",
+          "memory": 0,
+          "workload": 663,
+          "latency": 98.50331159823641,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_82"
+    },
+    "config_80": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 1.56,
+      "id": "7_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_12",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 77.03473638149946,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_12",
+          "memory": 0,
+          "workload": 677,
+          "latency": 82.29185922294668,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_83"
+    },
+    "config_81": {
+      "data_to_phone": 3.13,
+      "data_to_cloud": 0.0,
+      "id": "7_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_7_13",
+          "memory": 0,
+          "workload": 1003,
+          "latency": 71.2307734432491,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_7_13",
+          "memory": 0,
+          "workload": 3976,
+          "latency": 124.19498820779889,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_7_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_84"
+    },
+    "config_82": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "8_8",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_8",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 52.04956272952076,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 54.350832735116356,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_8",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_85"
+    },
+    "config_83": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "8_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_9",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 74.12258804229512,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_9",
+          "memory": 0,
+          "workload": 13,
+          "latency": 61.90020892509298,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_86"
+    },
+    "config_84": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "8_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_10",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 74.20830342909157,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_10",
+          "memory": 0,
+          "workload": 373,
+          "latency": 58.7059947296297,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_87"
+    },
+    "config_85": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "8_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_11",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 70.05761328211013,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_11",
+          "memory": 0,
+          "workload": 426,
+          "latency": 63.5597055444907,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_88"
+    },
+    "config_86": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "8_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_12",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 57.600217018202486,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_12",
+          "memory": 0,
+          "workload": 440,
+          "latency": 58.60043586911104,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_89"
+    },
+    "config_87": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 0.0,
+      "id": "8_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_8_13",
+          "memory": 0,
+          "workload": 1240,
+          "latency": 58.92709408458582,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_8_13",
+          "memory": 0,
+          "workload": 3740,
+          "latency": 123.53882261960956,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_8_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_90"
+    },
+    "config_88": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "9_9",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_9_9",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 54.335491598701495,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_9_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 47.933350892662865,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_9_9",
+          "memory": 0,
+          "workload": 0,
+          "latency": 18.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_91"
+    },
+    "config_89": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "9_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_9_10",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 72.20985562974312,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_9_10",
+          "memory": 0,
+          "workload": 359,
+          "latency": 56.055440775345204,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_9_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_92"
+    },
+    "config_90": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "9_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_9_11",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 62.83683618085587,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_9_11",
+          "memory": 0,
+          "workload": 412,
+          "latency": 61.820373172991765,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_9_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_93"
+    },
+    "config_91": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "9_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_9_12",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 70.69370427741747,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_9_12",
+          "memory": 0,
+          "workload": 426,
+          "latency": 52.770273309243656,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_9_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_94"
+    },
+    "config_92": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 0.0,
+      "id": "9_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_9_13",
+          "memory": 0,
+          "workload": 1254,
+          "latency": 75.01260081587952,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_9_13",
+          "memory": 0,
+          "workload": 3726,
+          "latency": 109.11941851595743,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_9_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_95"
+    },
+    "config_93": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "10_10",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_10_10",
+          "memory": 0,
+          "workload": 1613,
+          "latency": 63.51584615638171,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_10_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 60.79916996243743,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_10_10",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_96"
+    },
+    "config_94": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "10_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_10_11",
+          "memory": 0,
+          "workload": 1613,
+          "latency": 72.26841976768,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_10_11",
+          "memory": 0,
+          "workload": 53,
+          "latency": 75.55851409300385,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_10_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_97"
+    },
+    "config_95": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "10_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_10_12",
+          "memory": 0,
+          "workload": 1613,
+          "latency": 83.39682338851125,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_10_12",
+          "memory": 0,
+          "workload": 67,
+          "latency": 56.57027508606676,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_10_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_98"
+    },
+    "config_96": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 0.0,
+      "id": "10_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_10_13",
+          "memory": 0,
+          "workload": 1613,
+          "latency": 61.33603641684471,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_10_13",
+          "memory": 0,
+          "workload": 3366,
+          "latency": 115.96487272741498,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_10_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_99"
+    },
+    "config_97": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "11_11",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_11_11",
+          "memory": 0,
+          "workload": 1667,
+          "latency": 74.70289280746657,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_11_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 53.219840649985784,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_11_11",
+          "memory": 0,
+          "workload": 0,
+          "latency": 16.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_100"
+    },
+    "config_98": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "11_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_11_12",
+          "memory": 0,
+          "workload": 1667,
+          "latency": 84.18257232837132,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_11_12",
+          "memory": 0,
+          "workload": 13,
+          "latency": 61.95272660874478,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_11_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_101"
+    },
+    "config_99": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 0.0,
+      "id": "11_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_11_13",
+          "memory": 0,
+          "workload": 1667,
+          "latency": 74.59432908784093,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_11_13",
+          "memory": 0,
+          "workload": 3313,
+          "latency": 90.9560229910721,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_11_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_102"
+    },
+    "config_100": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 1.56,
+      "id": "12_12",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_12_12",
+          "memory": 0,
+          "workload": 1680,
+          "latency": 88.20162920814651,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_12_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 62.21566959365888,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_12_12",
+          "memory": 0,
+          "workload": 0,
+          "latency": 15.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_103"
+    },
+    "config_101": {
+      "data_to_phone": 1.56,
+      "data_to_cloud": 0.0,
+      "id": "12_13",
+      "partitions": {
+        "p_1": {
+          "name": "yolov5_1_12_13",
+          "memory": 0,
+          "workload": 1680,
+          "latency": 81.19808589106906,
+          "data_out": 0
+        },
+        "p_2": {
+          "name": "yolov5_2_12_13",
+          "memory": 0,
+          "workload": 3299,
+          "latency": 104.71877177379093,
+          "data_out": 0
+        },
+        "p_3": {
+          "name": "yolov5_3_12_13",
+          "memory": 0,
+          "workload": 0,
+          "latency": 0.0,
+          "data_out": 0
+        }
+      },
+      "orginal_name": "config_104"
+    }
+  },
+  "Constraints": {
+    "T_max": 600
+  },
+  "Devices": {
+    "SEW": {
+      "power_compute": 8e-05,
+      "power_transmission": 0.4,
+      "battery_state": 100
+    },
+    "Phone": {
+      "battery_state": 100,
+      "power_compute": 8e-05,
+      "power_transmission": 0.5
+    },
+    "Cloud": {
+      "latency_min": 0,
+      "latency_max": 8.5,
+      "trace": "true"
+    }
+  },
+  "NetworkDomains": {
+    "WIFI7": {
+      "data_rate": 1000,
+      "trace": "traces/validation/WIFI7_validation.csv"
+    },
+    "5G": {
+      "data_rate": 220,
+      "cost_per_byte": 0.1,
+      "trace": "traces/validation/5G_validation.csv"
+    }
+  },
+  "EnergyTransfer": {
+    "max_energy_transfer_SEW": 4.4,
+    "max_energy_transfer_phone": 0
+  },
+  "ReconfigurationInterval": 10,
+  "InputRate": 30
+}

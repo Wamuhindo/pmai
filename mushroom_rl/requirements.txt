@@ -1,0 +1,11 @@
+numpy
+numpy_ml
+scipy
+scikit-learn
+matplotlib
+joblib
+tqdm
+pygame
+opencv-python
+torch
+pytest

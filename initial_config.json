@@ -1,0 +1,33 @@
+{
+    "Configuration": {
+        "config_90": {
+            "data_to_phone": 1.56,
+            "data_to_cloud": 0.0,
+            "id": "8_13",
+            "partitions": {
+              "p_1": {
+                "name": "yolov5_1_8_13",
+                "memory": 0,
+                "workload": 1240,
+                "latency": 64.0,
+                "data_out": 0
+              },
+              "p_2": {
+                "name": "yolov5_2_8_13",
+                "memory": 0,
+                "workload": 3740,
+                "latency": 108.0,
+                "data_out": 0
+              },
+              "p_3": {
+                "name": "yolov5_3_8_13",
+                "memory": 0,
+                "workload": 0,
+                "latency": 0.0,
+                "data_out": 0
+              }
+            }
+          }
+    },
+    "total_cost":12
+}

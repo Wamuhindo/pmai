@@ -1,0 +1,98 @@
+{"EnvParameters":{
+    "Horizon":50000,
+    "ReconfigurationInterval":10,
+    "StateDiscretization":20,
+    "ImportanceWeights":{
+        "w_energy_SEW":0.07,
+        "w_energy_Phone":0.03, 
+        "w_exec":0.86, 
+        "w_config":0.01, 
+        "w_conn":0.03
+    },
+    "BatteryVariation":{
+        "Type":"exponential",
+        "MinPercentage":10,
+        "MaxPercentage":100,
+        "CurrentPercentage":60,
+        "WeightVariation":"exponential"
+    },
+    "LearningParams":{
+        "constant_lr": true,
+        "lr": 0.02,
+        "epsilon": 0.02,
+        "gamma":0.99
+    },
+    "StateParams":{
+        "size":1000000,
+        "elements":{
+            "r_SEW":{
+                "min":0.0,
+                "max":1000.0,
+                "initial":695.0
+            },
+            "r_phone":{
+                "min":0.0,
+                "max":220.0,
+                "initial":0
+            },
+            "battery":{
+                "min":0.0,
+                "max":100.0,
+                "initial":100
+            },
+            "l_SEW":{
+                "min":0,
+                "max":350,
+                "initial":56
+            },
+            "l_phone":{
+                "min":0,
+                "max":225,
+                "initial":143
+            },
+            "l_cloud":{
+                "min":0,
+                "max":131,
+                "initial":76
+            }
+
+        }
+    }
+},
+ "DQNParameters": {
+     "n_steps_per_fit": 5,
+     "batch_size": 512,
+     "initial_replay_size": 512,
+     "max_replay_size": 2000,
+     "target_update_frequency": 400,
+     "use_cuda": false,
+     "approximator_params": {
+         "optimizer": {"class": "Adam","params": {"lr": 0.04}}, "loss": "mse_loss",
+         "n_features":[100, 100 ,60],
+         "fun_layers": ["ReLU", "ReLU","ReLU"],
+         "dropout":  true,
+        "dropout_list":  [0.4, 0.3, 0]
+    }
+ },
+    "Setup": {
+        "Methods": ["QLearning"],
+        "names_scenario": {
+                "Var_Tmax":[600,400,500]
+                },
+        "names_variation": [["wifi","5G","cloud"]],
+        "learning_strategy": ["decayingLr"],
+        "n_steps": 1500000,
+        "n_experiment": 1,
+        "lr": 1,
+        "exp": 1,
+        "epsilon": 0.05,
+        "step_per_checkpoint": 5000000,
+        "t_max": 600,
+        "extended_state": false,
+        "steps_per_env":1,
+        "all_steps_per_env": false,
+        "round_robin_policy":true,
+        "evaluation":false
+
+    }
+}

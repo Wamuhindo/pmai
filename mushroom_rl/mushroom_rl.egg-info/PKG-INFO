@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: mushroom-rl
+Version: 1.9.1
+Summary: A Python library for Reinforcement Learning experiments.
+Home-page: https://github.com/MushroomRL/mushroom-rl
+Author: Carlo D'Eramo, Davide Tateo
+Author-email: carlo.deramo@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: numpy_ml
+Requires-Dist: scipy
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: joblib
+Requires-Dist: tqdm
+Requires-Dist: pygame
+Requires-Dist: opencv-python
+Requires-Dist: torch
+Requires-Dist: pytest
+Provides-Extra: gym
+Requires-Dist: gym==0.24.1; extra == "gym"
+Provides-Extra: atari
+Requires-Dist: ale-py==0.7.5; extra == "atari"
+Requires-Dist: Pillow; extra == "atari"
+Requires-Dist: opencv-python; extra == "atari"
+Provides-Extra: box2d
+Requires-Dist: box2d-py~=2.3.5; extra == "box2d"
+Provides-Extra: bullet
+Requires-Dist: pybullet; extra == "bullet"
+Provides-Extra: mujoco
+Requires-Dist: mujoco>=2.3; extra == "mujoco"
+Requires-Dist: dm_control>=1.0.9; extra == "mujoco"
+Provides-Extra: plots
+Requires-Dist: pyqtgraph; extra == "plots"
+Provides-Extra: all
+Requires-Dist: gym==0.24.1; extra == "all"
+Requires-Dist: ale-py==0.7.5; extra == "all"
+Requires-Dist: Pillow; extra == "all"
+Requires-Dist: opencv-python; extra == "all"
+Requires-Dist: pybullet; extra == "all"
+Requires-Dist: mujoco>=2.3; extra == "all"
+Requires-Dist: dm_control>=1.0.9; extra == "all"
+
+MushroomRL is a Python Reinforcement Learning (RL) library whose modularity allows to easily use well-known Python libraries for tensor computation (e.g. PyTorch, Tensorflow) and RL benchmarks (e.g. OpenAI Gym, PyBullet, Deepmind Control Suite). It allows to perform RL experiments in a simple way providing classical RL algorithms (e.g. Q-Learning, SARSA, FQI), and deep RL algorithms (e.g. DQN, DDPG, SAC, TD3, TRPO, PPO). Full documentation available at http://mushroomrl.readthedocs.io/en/latest/.
